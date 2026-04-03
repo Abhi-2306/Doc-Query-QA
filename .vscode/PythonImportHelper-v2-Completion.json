@@ -1,11 +1,572 @@
 [
     {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertTokenizerFast",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertForQuestionAnswering",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BertTokenizerFast",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BertForQuestionAnswering",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5ForConditionalGeneration",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertTokenizerFast",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertForQuestionAnswering",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertTokenizerFast",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertForQuestionAnswering",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingArguments",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultDataCollator",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertTokenizerFast",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DistilBertForQuestionAnswering",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingArguments",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultDataCollator",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "generate_suggested_questions",
+        "importPath": "auto_qa",
+        "description": "auto_qa",
+        "isExtraImport": true,
+        "detail": "auto_qa",
+        "documentation": {}
+    },
+    {
         "label": "json",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "json",
         "description": "json",
         "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "importPath": "evaluate",
+        "description": "evaluate",
+        "isExtraImport": true,
+        "detail": "evaluate",
+        "documentation": {}
+    },
+    {
+        "label": "AskRequest",
+        "kind": 6,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "class AskRequest(BaseModel):\n    question: str\nclass AskResponse(BaseModel):\n    question:    str\n    bert:        dict\n    distilbert:  dict\n    best_chunk:  str\n# ── Endpoints ────────────────────────────────────────────\n@app.post(\"/upload\")\nasync def upload_pdf(file: UploadFile = File(...)):",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "AskResponse",
+        "kind": 6,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "class AskResponse(BaseModel):\n    question:    str\n    bert:        dict\n    distilbert:  dict\n    best_chunk:  str\n# ── Endpoints ────────────────────────────────────────────\n@app.post(\"/upload\")\nasync def upload_pdf(file: UploadFile = File(...)):\n    \"\"\"Accepts PDF → extracts text → chunks → generates suggested questions.\"\"\"\n    if not file.filename.endswith(\".pdf\"):",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text",
+        "kind": 2,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "def extract_text(pdf_bytes: bytes) -> str:\n    return \"Placeholder extracted text from PDF.\"\ndef chunk_text(text: str) -> list[str]:\n    # Simple word-based chunking as placeholder\n    words  = text.split()\n    size   = 400\n    stride = 50\n    chunks = []\n    i = 0\n    while i < len(words):",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_text",
+        "kind": 2,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "def chunk_text(text: str) -> list[str]:\n    # Simple word-based chunking as placeholder\n    words  = text.split()\n    size   = 400\n    stride = 50\n    chunks = []\n    i = 0\n    while i < len(words):\n        chunks.append(\" \".join(words[i:i+size]))\n        i += size - stride",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "find_best_chunk",
+        "kind": 2,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "def find_best_chunk(question: str, chunks: list[str]) -> str:\n    return chunks[0] if chunks else \"\"\ndef build_context(question: str, chunk: str) -> str:\n    return chunk\ndef save_to_history(question: str, bert_ans: str, distil_ans: str):\n    pass\ndef clear_history():\n    pass\n# ────────────────────────────────────────────────────────\nfrom auto_qa import generate_suggested_questions",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "build_context",
+        "kind": 2,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "def build_context(question: str, chunk: str) -> str:\n    return chunk\ndef save_to_history(question: str, bert_ans: str, distil_ans: str):\n    pass\ndef clear_history():\n    pass\n# ────────────────────────────────────────────────────────\nfrom auto_qa import generate_suggested_questions\n# ── Config ──────────────────────────────────────────────\nBASE           = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "save_to_history",
+        "kind": 2,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "def save_to_history(question: str, bert_ans: str, distil_ans: str):\n    pass\ndef clear_history():\n    pass\n# ────────────────────────────────────────────────────────\nfrom auto_qa import generate_suggested_questions\n# ── Config ──────────────────────────────────────────────\nBASE           = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\nDISTILBERT_DIR = os.path.join(BASE, \"models\", \"distilbert-final\")\nBERT_DIR       = os.path.join(BASE, \"models\", \"bert-final\")",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "clear_history",
+        "kind": 2,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "def clear_history():\n    pass\n# ────────────────────────────────────────────────────────\nfrom auto_qa import generate_suggested_questions\n# ── Config ──────────────────────────────────────────────\nBASE           = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\nDISTILBERT_DIR = os.path.join(BASE, \"models\", \"distilbert-final\")\nBERT_DIR       = os.path.join(BASE, \"models\", \"bert-final\")\n# ────────────────────────────────────────────────────────\napp = FastAPI(title=\"DocQuery API\")",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "run_qa",
+        "kind": 2,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "def run_qa(question: str, context: str, tokenizer, model) -> dict:\n    \"\"\"Run a single QA model and return answer + confidence + latency.\"\"\"\n    if model is None or tokenizer is None:\n        return {\"answer\": \"Model not loaded\", \"confidence\": 0.0, \"latency_ms\": 0}\n    start = time.time()\n    inputs = tokenizer(\n        question,\n        context,\n        max_length=384,\n        truncation=True,",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "DISTILBERT_DIR",
+        "kind": 5,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "DISTILBERT_DIR = os.path.join(BASE, \"models\", \"distilbert-final\")\nBERT_DIR       = os.path.join(BASE, \"models\", \"bert-final\")\n# ────────────────────────────────────────────────────────\napp = FastAPI(title=\"DocQuery API\")\n# Allow Next.js frontend to talk to this API\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:3000\"],\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "app = FastAPI(title=\"DocQuery API\")\n# Allow Next.js frontend to talk to this API\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:3000\"],\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n# ── In-memory state ──────────────────────────────────────\nstate = {",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "kind": 5,
+        "importPath": "backend.api",
+        "description": "backend.api",
+        "peekOfCode": "state = {\n    \"chunks\":     [],   # text chunks from uploaded PDF\n    \"auto_qa\":    [],   # suggested questions\n}\n# ────────────────────────────────────────────────────────\n# ── Load models on startup ───────────────────────────────\nprint(\"Loading DistilBERT model...\")\ntry:\n    distil_tokenizer = DistilBertTokenizerFast.from_pretrained(DISTILBERT_DIR)\n    distil_model     = DistilBertForQuestionAnswering.from_pretrained(DISTILBERT_DIR)",
+        "detail": "backend.api",
+        "documentation": {}
+    },
+    {
+        "label": "generate_suggested_questions",
+        "kind": 2,
+        "importPath": "backend.auto_qa",
+        "description": "backend.auto_qa",
+        "peekOfCode": "def generate_suggested_questions(chunks: list[str]) -> list[str]:\n    \"\"\"\n    Main function called by api.py after PDF upload.\n    Takes list of text chunks, returns flat list of suggested questions.\n    Args:\n        chunks: list of text chunks from pdf_processor.py\n    Returns:\n        list of question strings (up to MAX_CHUNKS * QUESTIONS_PER_CHUNK)\n    \"\"\"\n    if not chunks:",
+        "detail": "backend.auto_qa",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_NAME",
+        "kind": 5,
+        "importPath": "backend.auto_qa",
+        "description": "backend.auto_qa",
+        "peekOfCode": "MODEL_NAME = \"mrm8488/t5-base-finetuned-question-generation-ap\"\nMAX_CHUNKS = 5  # only use first 5 chunks\nQUESTIONS_PER_CHUNK = 3\nMAX_INPUT_LENGTH = 512\nMAX_QUESTION_LENGTH = 64\n# ────────────────────────────────────────────────────────\n# Load model once at module level so API doesn't reload on every request\nprint(\"Loading question generation model...\")\n_tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)\n_model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)",
+        "detail": "backend.auto_qa",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CHUNKS",
+        "kind": 5,
+        "importPath": "backend.auto_qa",
+        "description": "backend.auto_qa",
+        "peekOfCode": "MAX_CHUNKS = 5  # only use first 5 chunks\nQUESTIONS_PER_CHUNK = 3\nMAX_INPUT_LENGTH = 512\nMAX_QUESTION_LENGTH = 64\n# ────────────────────────────────────────────────────────\n# Load model once at module level so API doesn't reload on every request\nprint(\"Loading question generation model...\")\n_tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)\n_model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)\n_model.eval()",
+        "detail": "backend.auto_qa",
+        "documentation": {}
+    },
+    {
+        "label": "QUESTIONS_PER_CHUNK",
+        "kind": 5,
+        "importPath": "backend.auto_qa",
+        "description": "backend.auto_qa",
+        "peekOfCode": "QUESTIONS_PER_CHUNK = 3\nMAX_INPUT_LENGTH = 512\nMAX_QUESTION_LENGTH = 64\n# ────────────────────────────────────────────────────────\n# Load model once at module level so API doesn't reload on every request\nprint(\"Loading question generation model...\")\n_tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)\n_model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)\n_model.eval()\nprint(\"✅ Question generation model loaded\")",
+        "detail": "backend.auto_qa",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_INPUT_LENGTH",
+        "kind": 5,
+        "importPath": "backend.auto_qa",
+        "description": "backend.auto_qa",
+        "peekOfCode": "MAX_INPUT_LENGTH = 512\nMAX_QUESTION_LENGTH = 64\n# ────────────────────────────────────────────────────────\n# Load model once at module level so API doesn't reload on every request\nprint(\"Loading question generation model...\")\n_tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)\n_model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)\n_model.eval()\nprint(\"✅ Question generation model loaded\")\ndef _generate_questions_from_chunk(chunk: str) -> list[str]:",
+        "detail": "backend.auto_qa",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_QUESTION_LENGTH",
+        "kind": 5,
+        "importPath": "backend.auto_qa",
+        "description": "backend.auto_qa",
+        "peekOfCode": "MAX_QUESTION_LENGTH = 64\n# ────────────────────────────────────────────────────────\n# Load model once at module level so API doesn't reload on every request\nprint(\"Loading question generation model...\")\n_tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)\n_model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)\n_model.eval()\nprint(\"✅ Question generation model loaded\")\ndef _generate_questions_from_chunk(chunk: str) -> list[str]:\n    \"\"\"Generate QUESTIONS_PER_CHUNK questions from a single text chunk.\"\"\"",
+        "detail": "backend.auto_qa",
+        "documentation": {}
+    },
+    {
+        "label": "_tokenizer",
+        "kind": 5,
+        "importPath": "backend.auto_qa",
+        "description": "backend.auto_qa",
+        "peekOfCode": "_tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)\n_model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)\n_model.eval()\nprint(\"✅ Question generation model loaded\")\ndef _generate_questions_from_chunk(chunk: str) -> list[str]:\n    \"\"\"Generate QUESTIONS_PER_CHUNK questions from a single text chunk.\"\"\"\n    # Model expects input in format: \"answer: <text> context: <text>\"\n    # Since we want open-ended questions, we use the chunk as both\n    input_text = f\"answer: {chunk[:300]} context: {chunk}\"\n    inputs = _tokenizer(",
+        "detail": "backend.auto_qa",
+        "documentation": {}
+    },
+    {
+        "label": "_model",
+        "kind": 5,
+        "importPath": "backend.auto_qa",
+        "description": "backend.auto_qa",
+        "peekOfCode": "_model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)\n_model.eval()\nprint(\"✅ Question generation model loaded\")\ndef _generate_questions_from_chunk(chunk: str) -> list[str]:\n    \"\"\"Generate QUESTIONS_PER_CHUNK questions from a single text chunk.\"\"\"\n    # Model expects input in format: \"answer: <text> context: <text>\"\n    # Since we want open-ended questions, we use the chunk as both\n    input_text = f\"answer: {chunk[:300]} context: {chunk}\"\n    inputs = _tokenizer(\n        input_text,",
+        "detail": "backend.auto_qa",
+        "documentation": {}
+    },
+    {
+        "label": "get_answer",
+        "kind": 2,
+        "importPath": "backend.evaluate_distilbert",
+        "description": "backend.evaluate_distilbert",
+        "peekOfCode": "def get_answer(question: str, context: str, tokenizer, model) -> tuple[str, float]:\n    \"\"\"Run model on a single question+context, return (answer, latency_ms).\"\"\"\n    inputs = tokenizer(\n        question,\n        context,\n        max_length=MAX_LENGTH,\n        truncation=True,\n        padding=\"max_length\",\n        return_tensors=\"pt\",\n    )",
+        "detail": "backend.evaluate_distilbert",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.evaluate_distilbert",
+        "description": "backend.evaluate_distilbert",
+        "peekOfCode": "def main():\n    print(\"=== Evaluate DistilBERT Final Model ===\\n\")\n    # 1. Load model\n    print(f\"Loading model from {MODEL_DIR}...\")\n    tokenizer = DistilBertTokenizerFast.from_pretrained(MODEL_DIR)\n    model     = DistilBertForQuestionAnswering.from_pretrained(MODEL_DIR)\n    model.eval()\n    # 2. Load eval data — same 1000 examples Sruthi uses\n    print(\"Loading SQuAD validation slice (1000 examples)...\")\n    dataset = load_dataset(\"squad\")",
+        "detail": "backend.evaluate_distilbert",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess",
+        "kind": 2,
+        "importPath": "backend.stage1_squad",
+        "description": "backend.stage1_squad",
+        "peekOfCode": "def preprocess(examples, tokenizer):\n    \"\"\"Tokenize and compute start/end token positions for each answer.\"\"\"\n    questions = [q.strip() for q in examples[\"question\"]]\n    tokenized = tokenizer(\n        questions,\n        examples[\"context\"],\n        max_length=MAX_LENGTH,\n        truncation=\"only_second\",\n        stride=DOC_STRIDE,\n        return_overflowing_tokens=True,",
+        "detail": "backend.stage1_squad",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.stage1_squad",
+        "description": "backend.stage1_squad",
+        "peekOfCode": "def main():\n    print(\"=== Stage 1: DistilBERT on SQuAD ===\\n\")\n    # 1. Load tokenizer + model\n    print(\"Loading tokenizer and model...\")\n    tokenizer = DistilBertTokenizerFast.from_pretrained(MODEL_NAME)\n    model     = DistilBertForQuestionAnswering.from_pretrained(MODEL_NAME)\n    # 2. Load SQuAD 1.1\n    print(\"Loading SQuAD dataset...\")\n    dataset = load_dataset(\"squad\")\n    train_data = dataset[\"train\"]",
+        "detail": "backend.stage1_squad",
+        "documentation": {}
+    },
+    {
+        "label": "WARMUP_STEPS",
+        "kind": 5,
+        "importPath": "backend.stage1_squad",
+        "description": "backend.stage1_squad",
+        "peekOfCode": "WARMUP_STEPS = 500\n# ────────────────────────────────────────────────────────\ndef preprocess(examples, tokenizer):\n    \"\"\"Tokenize and compute start/end token positions for each answer.\"\"\"\n    questions = [q.strip() for q in examples[\"question\"]]\n    tokenized = tokenizer(\n        questions,\n        examples[\"context\"],\n        max_length=MAX_LENGTH,\n        truncation=\"only_second\",",
+        "detail": "backend.stage1_squad",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_coqa",
+        "kind": 2,
+        "importPath": "backend.stage2_coqa",
+        "description": "backend.stage2_coqa",
+        "peekOfCode": "def flatten_coqa(dataset):\n    \"\"\"\n    CoQA stores multiple Q&A turns per story in a single row.\n    This flattens it so each (question, answer, context) is its own example.\n    \"\"\"\n    rows = {\"context\": [], \"question\": [], \"answers\": []}\n    for ex in dataset:\n        ctx = ex[\"story\"]\n        for q, a_text, a_start in zip(\n            ex[\"questions\"],",
+        "detail": "backend.stage2_coqa",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess",
+        "kind": 2,
+        "importPath": "backend.stage2_coqa",
+        "description": "backend.stage2_coqa",
+        "peekOfCode": "def preprocess(examples, tokenizer):\n    \"\"\"Same tokenization logic as Stage 1 — maps char positions to token positions.\"\"\"\n    questions = [q.strip() for q in examples[\"question\"]]\n    tokenized = tokenizer(\n        questions,\n        examples[\"context\"],\n        max_length=MAX_LENGTH,\n        truncation=\"only_second\",\n        stride=DOC_STRIDE,\n        return_overflowing_tokens=True,",
+        "detail": "backend.stage2_coqa",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.stage2_coqa",
+        "description": "backend.stage2_coqa",
+        "peekOfCode": "def main():\n    print(\"=== Stage 2: DistilBERT fine-tune on CoQA ===\\n\")\n    # 1. Load tokenizer + Stage 1 model\n    print(f\"Loading Stage 1 model from {STAGE1_DIR}...\")\n    tokenizer = DistilBertTokenizerFast.from_pretrained(STAGE1_DIR)\n    model     = DistilBertForQuestionAnswering.from_pretrained(STAGE1_DIR)\n    # 2. Load + flatten CoQA\n    print(\"Loading CoQA dataset...\")\n    raw = load_dataset(\"coqa\")\n    train_flat = flatten_coqa(raw[\"train\"]).select(range(6000))",
+        "detail": "backend.stage2_coqa",
+        "documentation": {}
+    },
+    {
+        "label": "WARMUP_STEPS",
+        "kind": 5,
+        "importPath": "backend.stage2_coqa",
+        "description": "backend.stage2_coqa",
+        "peekOfCode": "WARMUP_STEPS = 200\n# ────────────────────────────────────────────────────────\ndef flatten_coqa(dataset):\n    \"\"\"\n    CoQA stores multiple Q&A turns per story in a single row.\n    This flattens it so each (question, answer, context) is its own example.\n    \"\"\"\n    rows = {\"context\": [], \"question\": [], \"answers\": []}\n    for ex in dataset:\n        ctx = ex[\"story\"]",
+        "detail": "backend.stage2_coqa",
         "documentation": {}
     },
     {
