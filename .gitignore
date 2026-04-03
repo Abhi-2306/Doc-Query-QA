@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Models (too large for GitHub)
+models/
+*.pt
+*.bin
+*.safetensors
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/.env.local
+
+# PDFs
+*.pdf
+
+# Logs
+logs/
+*.log
