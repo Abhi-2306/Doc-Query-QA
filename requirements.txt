@@ -1,0 +1,10 @@
+transformers
+datasets
+evaluate
+torch
+sentence-transformers
+scikit-learn
+PyMuPDF
+fastapi
+uvicorn
+python-multipart

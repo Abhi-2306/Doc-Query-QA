@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Python
 venv/
 __pycache__/
@@ -21,3 +22,6 @@ frontend/.env.local
 # Logs
 logs/
 *.log
+=======
+venv/
+>>>>>>> Stashed changes
